@@ -1,5 +1,6 @@
-def levitatio_force
-  force = 6
+def using_while
+  force = 0
+  while force < 10
+  puts "Wingardium Leviosa" 
+  force += 1
   
-
-puts "Wingardium Leviosa"
