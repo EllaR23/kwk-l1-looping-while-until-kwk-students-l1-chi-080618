@@ -13,5 +13,7 @@ def using_until
   puts "Wingardium Leviosa"
   force += 1
 end
+  break
+end
   
   
