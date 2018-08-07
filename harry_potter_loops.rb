@@ -4,6 +4,8 @@ def using_while
   while force < 10
   puts "Wingardium Leviosa" 
   force += 1
+  end
+break 
 end
 
 def using_until
@@ -12,8 +14,8 @@ def using_until
   until force = 10 
   puts "Wingardium Leviosa"
   force += 1
-end
-  break
+  end
+break
 end
   
   
